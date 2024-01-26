@@ -51,6 +51,8 @@ def extract_specific_taxa_sequences(input_file, output_file, target_taxon):
             outfile.write(f">{current_taxon}\n{current_sequence}\n")
 
 # Example usage
+# In this example we will extract sequences from the Genus Rhizobium 
+# Feel free to change it to the taxa of your choice 
 fasta_input_file = 'your_input.fasta'
 output_file_for_specific_taxon = 'output_rhizobium.fasta'
 target_taxon = 'Rhizobium'
