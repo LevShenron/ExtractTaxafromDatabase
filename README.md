@@ -1,1 +1,1 @@
-This script extracts sequences from a FASTA file that belong to a specific taxon and writes them to a new file.
+This script is a Python program that can be executed from the command line. It helps filter sequences from a FASTA file based on a specified taxon and writes the filtered sequences to a new file.
