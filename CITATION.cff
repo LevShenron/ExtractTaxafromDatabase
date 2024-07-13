@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Extract Taxa from Database
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Georgios
+    name-particle: GA
+    family-names: Leventis
+    name-suffix: Leventis
+    email: gklevedis@gmail.com
+    affiliation: Plant Scientist
+    orcid: 'https://orcid.org/0000-0002-2062-6292'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12737872
+  - type: url
+    value: 'https://zenodo.org/records/12737872'
+repository-code: 'https://www.github.com'
+url: 'https://www.zenodo.org'
+keywords:
+  - sequences
+  - database
+  - fasta
+  - microbial ecology
+  - prokaryotic taxonomy
+license: MIT
