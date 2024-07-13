@@ -20,8 +20,8 @@ identifiers:
     value: 10.5281/zenodo.12737872
   - type: url
     value: 'https://zenodo.org/records/12737872'
-repository-code: 'https://www.github.com'
-url: 'https://www.zenodo.org'
+repository-code: 'https://www.github.com/Rebentisu/ExtractTaxafromDatabase/'
+url: 'https://zenodo.org/records/12737872'
 keywords:
   - sequences
   - database
