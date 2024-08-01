@@ -1,9 +1,6 @@
 # Extract Specific Taxa Sequences
 
-This script is a Python program that extracts sequences from a FASTA file that belong to a specific taxon and writes them to a new file. It also generates a summary file containing the count and names of the sequences that were extracted. The script accepts command-line arguments for the input file, output file, summary file, and target taxon.
-
-# Error Handling and Instructions
-The script includes error handling to provide helpful messages in case of incorrect arguments or other errors.
+This script is a Python program that extracts sequences from a FASTA file that belong to a specific taxon and writes them to a new file. It also generates a summary file containing the count and names of the sequences that were extracted. The script accepts command-line arguments for the input file, output file, summary file, and target taxon. The script also includes error handling to provide helpful messages in case of incorrect arguments or other errors.
 
 ## Usage 
 
