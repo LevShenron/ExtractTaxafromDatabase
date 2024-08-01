@@ -15,7 +15,7 @@ python extract_specific_taxa_sequences.py -f <input_fasta_file> -o <output_fasta
 To extract sequences for the genus Pseudomonas from fasta_db.fasta, and write them to output_Pseudomonas.fasta with a summary in summary.txt, run:
 
 ```sh
-python extract_specific_taxa_sequences.py -f fasta_db.fasta -o output_rhizobium.fasta -s summary.txt -t Pseudomonas
+python extract_specific_taxa_sequences.py -f fasta_db.fasta -o output_Pseudomonas.fasta -s summary.txt -t Pseudomonas
 ```
 ## Usage instructions
 
