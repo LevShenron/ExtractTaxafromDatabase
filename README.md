@@ -42,7 +42,8 @@ Czech, L., Stamatakis, A., Dunthorn, M., & Barbera, P. (2022). Metagenomic analy
 
 
 
-Created by Georgios Leventis
+Script created by Georgios Leventis
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13874732.svg)](https://doi.org/10.5281/zenodo.13874732)
 
 
