@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Extract_Taxa_from_Fasta_Database
+title: Python Script for Extracting Taxon-Specific Sequences from FASTA Files with Summary Report Generation
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
