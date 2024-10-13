@@ -10,6 +10,7 @@ python extract_specific_taxa_sequences.py -f <input_fasta_file> -o <output_fasta
 ```
 ## Example
 To extract sequences for the genus Pseudomonas from fasta_db.fasta, and write them to output_Pseudomonas.fasta with a summary in summary.txt, run:
+Note: The fasta_db.fasta file could be a FASTA database containing 16S rRNA full-length sequences from widely used resources such as SILVA or Greengenes.
 
 ```sh
 python extract_specific_taxa_sequences.py -f fasta_db.fasta -o output_Pseudomonas.fasta -s summary.txt -t Pseudomonas
