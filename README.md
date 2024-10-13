@@ -38,7 +38,7 @@ optional arguments:
 ```
 
 # References
-Czech, L., Stamatakis, A., Dunthorn, M., & Barbera, P. (2022). Metagenomic analysis using phylogenetic placement—a review of the first decade. Frontiers in Bioinformatics, 2, 871393.
+[Czech, L., Stamatakis, A., Dunthorn, M., & Barbera, P. (2022). Metagenomic analysis using phylogenetic placement—a review of the first decade. *Frontiers in Bioinformatics*, 2, 871393.](https://doi.org/10.3389/fbinf.2022.871393)
 
 
 
