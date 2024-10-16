@@ -13,7 +13,7 @@ python extract_specific_taxa_sequences.py -f <input_fasta_file> -o <output_fasta
 
 ```
 ## Example
-To extract sequences for the genus Pseudomonas from a database called "fasta_db.fasta", and write them to output_Pseudomonas.fasta with a summary in summary.txt, run:
+To extract sequences for the genus Pseudomonas from "fasta_db.fasta", and write them to output_Pseudomonas.fasta with a summary in summary.txt, run:
 
 
 ```sh
